@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Horiseon Challenge
 
 ![Project Image](project-image-url)
 
